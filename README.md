@@ -5,7 +5,6 @@
   <img alt="Build" src="https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge">
   <img alt="Issues" src="https://img.shields.io/badge/Issues-0%20Open-blue?style=for-the-badge">
   <img alt="Contributions" src="https://img.shields.io/badge/Contributions-Welcome-orange?style=for-the-badge">
-  <img alt="License" src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge">
 </p>
 <!-- 
   **Note:** These are static placeholder badges. Replace them with your project's actual badges.
